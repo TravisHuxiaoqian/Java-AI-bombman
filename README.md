@@ -1,9 +1,8 @@
-# Java--AI
+# Java-AI-bombman
 ![image](https://github.com/liujianjie/Java-AI-bombman/blob/main/%E7%82%B8%E5%BC%B9%E4%BA%BA.png?raw=true)
-完整的源码+完整的项目文档
-如果对你又帮助，希望麻烦给github项目一个star和本视频一个赞
-b站演示视频：https://www.bilibili.com/video/BV1Fx411R7yq/
-该项目作为大一下学期JAVA课程设计
+- 完整的源码+完整的项目文档,如果对你又帮助，希望麻烦给github项目一个star和本视频一个赞
+- b站演示视频：https://www.bilibili.com/video/BV1Fx411R7yq/
+- 该项目作为大一下学期JAVA课程设计
 亮点：BFS算法实现电脑AI
 完成像小时候玩的炸弹人游戏，或模仿4399小游戏中的泡泡堂 
 主要模块如下
